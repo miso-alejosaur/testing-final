@@ -11,8 +11,7 @@
 
 - Entorno de trabajo
 - Estrategia de Pruebas
-- Pruebas Manuales
-- Pruebas Exploratorias
+- [Pruebas Manuales/Exploratorias](https://github.com/miso-alejosaur/testing-final/blob/main/inventario-pruebas-exploratorias.xlsx)
 - Pruebas Extremo a Extremo
 - Pruebas de Regresión Visual
 - Escenarios de Validación de Datos
