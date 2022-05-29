@@ -10,8 +10,10 @@
 # Entregas Semana 8
 
 - Entorno de trabajo
+- Estrategia de Pruebas
 - Pruebas Manuales
 - Pruebas Exploratorias
 - Pruebas Extremo a Extremo
 - Pruebas de Regresión Visual
 - Escenarios de Validación de Datos
+- Retrospectiva DAKI
