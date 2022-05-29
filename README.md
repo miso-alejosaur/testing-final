@@ -29,9 +29,9 @@ Verá que comienza la ejecución de las pruebas en Kraken. Tras la finalización
 
 # Otros entregables
 
-- Estrategia de Pruebas
+- [Estrategia de Pruebas](https://github.com/miso-alejosaur/testing-final/blob/main/estrategia-pruebas-final.pdf)
 - [Pruebas Manuales/Exploratorias](https://github.com/miso-alejosaur/testing-final/blob/main/inventario-pruebas-exploratorias.xlsx)
-- Issues reportados
+- [Issues reportados](https://github.com/miso-alejosaur/testing-final/issues)
 
 # Miembros del equipo
 
