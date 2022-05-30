@@ -1,5 +1,8 @@
 # Entrega Final
 
+## Video - Estrategia Final
+https://youtu.be/FV8rb8lx_ls
+
 ## Instrucciones para ejecutar tests - Kraken
 
 ### Prerequisitos
